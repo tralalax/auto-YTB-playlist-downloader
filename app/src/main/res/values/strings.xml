@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">YT Playlist DL</string>
+
+    <!-- Strings used for the UI -->
+    <string name="manual_sync">sync now</string>
+    <string name="save_link">Save Link</string>
+    <string name="youtube_playlist_downloader">YouTube Auto Playlist Downloader</string>
+    <string name="playlist_url">Playlist URL</string>
+    <string name="download_path">Select a download folder</string>
+    <string name="choose_path">select download folder</string>
+    <string name="toogle_downloader">Enable</string>
+
+    <!-- Strings used for toast text button -->
+    <string name="playlistUrlSaved">URL saved !</string>
+    <string name="downloadPathSaved">Download folder saved !</string>
+    <string name="errorPlaylistUrlSave">Please enter an URL !</string>
+    <string name="errorDownloadPathSave">Please select a folder !</string>
+    <string name="errorInvalidPlaylistUrl">Invalid playlist URL !</string>
+    <string name="errorNonYTBplaylistURL">Only youtube URLs are accepted !</string>
+    <string name="errorInvalidDownloadPath">Invalid download path !</string>
+    <string name="errorNotSelectedURLorPath">Select a download path and an URL first !</string>
+
+    <!-- Strings used for random stuff -->
+    <string name="generalErrorMessage">An error has occurred</string>
+    <string name="githubButtonDesc">TralalaGithubLink</string>
+    <string name="switchEnable">Downloader enable</string>
+    <string name="switchDisable">Downloader disable</string>
+</resources>
