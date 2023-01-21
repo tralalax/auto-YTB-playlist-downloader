@@ -29,7 +29,7 @@ class PlaylistDownloader(appContext: Context, workerParams: WorkerParameters): W
 }
 
 // Youtube API key
-val YTBapiKey = "AIzaSyBXIEaoElA5td04LgZQgPB-c8GPbGPl81Y"
+val YTBapiKey = "YOUR API KEY"
 // base video URL
 var baseVideoUrl = "https://www.youtube.com/watch?v="
 // empty list for the video to download
