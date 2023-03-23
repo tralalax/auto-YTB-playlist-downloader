@@ -1,4 +1,7 @@
 # auto-YTB-playlist-downloader
+
+❗❗❗❗ REWRITE IN PROGRESS ❗❗❗❗
+
 An Android APP to automatically download new songs that you add to a YouTube playlist.
 
 The application checks every 24 hours if there is any new song in a youtube playlist, if so, it downloads them automatically.
